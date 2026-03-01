@@ -7,9 +7,9 @@ A simple menu based cli task manager
 
 # Project Structure
 
--`main.py` - handles interface
--`manager.py` - handles the managing of the data
--`task.py` - each task is a object
+`main.py` - handles interface <br>
+`manager.py` - handles the managing of the data <br>
+`task.py` - each task is a object <br>
 
 ---
 
@@ -30,3 +30,4 @@ A simple menu based cli task manager
 
 ```bash
 python main.py
+```
